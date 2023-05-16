@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **kalab27solomon@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1leLxVSISbNlDGv5UozGJKBFtIyjQqOW4/view?usp=share_link](https://drive.google.com/file/d/1leLxVSISbNlDGv5UozGJKBFtIyjQqOW4/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1leLxVSISbNlDGv5UozGJKBFtIyjQqOW4/view?usp=share_link](https://drive.google.com/file/d/1THixcvdmuzqEWFOl1uXLOIi_PCXnEt6Z/view?usp=share_link)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
