@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next.js, There.js and React-Native**
 
-- 👨‍💻 All of my projects are available at [https://melodious-brioche-b17ed9.netlify.app](https://melodious-brioche-b17ed9.netlify.app)
+- 👨‍💻 All of my projects are available at [https://kalab-solomon.netlify.app/](https://kalab-solomon.netlify.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@kalab27solomon](https://medium.com/@kalab27solomon)
 
