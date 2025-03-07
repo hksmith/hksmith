@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Javascript (Nodejs) and its frameworks**
 
-- 📫 How to reach me **kalab27solomon@gmail.com**
+- 📫 How to reach me **[Kalab Solomon](https://www.linkedin.com/in/kalab-solomon-780a8b254)**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1leLxVSISbNlDGv5UozGJKBFtIyjQqOW4/view?usp=share_link](https://drive.google.com/file/d/1THixcvdmuzqEWFOl1uXLOIi_PCXnEt6Z/view?usp=share_link)
 
