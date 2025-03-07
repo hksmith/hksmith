@@ -1,23 +1,23 @@
 [![MasterHead](https://camo.githubusercontent.com/775ed67e1d46c9534c3cb9a4694edf0603b1436a7e3e15891d3c327733fc26b6/68747470733a2f2f7777772e61756469656e6365706c616e65742e636f6d2f726f6f742f74656d706c6174652f312f2f696d616765732f7765622d646576656c6f706d656e742e676966)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Kalab Solomon</h1>
-<h3 align="center">A passionate Fullstack-Web developer(MERN)</h3>
+<h3 align="center">A passionate Back-End developer(Nodejs)</h3>
 <img align="right" alt="Programming" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hksmith&label=Profile%20views&color=0e75b6&style=flat" alt="hksmith" /> </p>
 
-- 🌱 I’m currently learning **Next.js, There.js and React-Native**
+- 🌱 I’m currently learning **Nestjs**
 
 - 👨‍💻 All of my projects are available at [https://kalab-solomon.netlify.app/](https://kalab-solomon.netlify.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@kalab27solomon](https://medium.com/@kalab27solomon)
 
-- 💬 Ask me about **Javascript and it's frameworks**
+- 💬 Ask me about **Javascript (Nodejs) and its frameworks**
 
 - 📫 How to reach me **kalab27solomon@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1leLxVSISbNlDGv5UozGJKBFtIyjQqOW4/view?usp=share_link](https://drive.google.com/file/d/1THixcvdmuzqEWFOl1uXLOIi_PCXnEt6Z/view?usp=share_link)
 
-### Blogs posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
